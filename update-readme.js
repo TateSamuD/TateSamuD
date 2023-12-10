@@ -16,10 +16,11 @@ const generateReadmeContent = () => {
 
     ## Contact
 
-        - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+        - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tatenda-samudzi-6a8525196/)
 
+    ---
 
-    ## My GitHub Stats
+    ### My GitHub Stats
 
     `;
 
