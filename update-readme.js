@@ -14,6 +14,11 @@ const generateReadmeContent = () => {
   let content = `
     # Hello, I'm Tatenda Samudzi
 
+    ## Contact
+
+        - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
+
+
     ## My GitHub Stats
 
     `;
