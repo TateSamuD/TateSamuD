@@ -1,7 +1,5 @@
 # Tatenda D Samudzi
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tatesamud" alt="tatesamud" /></a> </p>
-
 - 🔭 I’m currently working on [MPU6050 Rotation Display with Raspberry Pi and Tkinter](https://github.com/TateSamuD/RasPi/tree/main/mpu6050_raspi_tkinter)
 
 - 🌱 I’m currently learning **Interfacing with GUI tools**
