@@ -1,6 +1,6 @@
 # Tatenda D Samudzi
 
-- 🔭 I’m currently working on [MPU6050 Rotation Display with Raspberry Pi and Tkinter](https://github.com/TateSamuD/RasPi/tree/main/mpu6050_raspi_tkinter)
+- 🔭 I’m currently working on [Fractal Set Generator](https://github.com/TateSamuD/Fractal-Set-Generator)
 
 - 🌱 I’m currently learning **Interfacing with GUI tools**
 
