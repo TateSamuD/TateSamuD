@@ -1,8 +1,8 @@
 # Tatenda D Samudzi
 
-- 🔭 I’m currently working on **Nothing at the moment** (studying)
+- 🔭 I’m currently working on **Nothing at the moment**
 
-- 🌱 I’m currently learning **Algorithm design and analysis**
+- 🌱 I’m currently learning **Indie Game Development**
 
 - ⚡ Fun fact **I'm a night-owl/insomniac**
 
